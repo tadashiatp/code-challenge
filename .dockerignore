@@ -1,0 +1,7 @@
+.gradle
+.mvn
+.idea
+.vscode
+/out
+Dockerfile
+docker-compose;yaml
